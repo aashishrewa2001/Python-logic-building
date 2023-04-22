@@ -1,1 +1,1 @@
-# Business-analysis-project
+# Business-Analyst-Project
